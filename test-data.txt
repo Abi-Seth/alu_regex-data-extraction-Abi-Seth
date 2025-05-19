@@ -1,0 +1,33 @@
+Emails:
+- user@example.com
+- firstname.lastname@company.co.uk
+
+URLs:
+- https://www.example.com
+- https://subdomain.example.org/page
+
+Phone Numbers:
+- (123) 456-7890
+- 123-456-7890
+- 123.456.7890
+
+Credit Card Numbers:
+- 1234 5678 9012 3456
+- 1234-5678-9012-3456
+
+Times:
+- 14:30
+- 2:30 PM
+
+HTML Tags:
+<p>This is a paragraph</p>
+<div class="example">Content</div>
+<img src="image.jpg" alt="Example image" />
+
+Hashtags:
+- #example
+- #ThisIsAHashtag
+
+Currency Amounts:
+- $19.99
+- $1,234.56
